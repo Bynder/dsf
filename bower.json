@@ -5,7 +5,7 @@
   "authors": [
     "Bynder"
   ],
-  "description": "Decent String Formatter for Javascript\"",
+  "description": "Decent String Formatter for Javascript",
   "main": "src/dsf.js",
   "moduleType": [
     "globals"
