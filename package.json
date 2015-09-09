@@ -1,0 +1,24 @@
+{
+  "name": "DecentStringFormatter",
+  "version": "0.0.1",
+  "description": "Decent String Formatter for Javascript",
+  "main": "src/dsf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bynder/dsf.git"
+  },
+  "keywords": [
+    "decent",
+    "string",
+    "formatter"
+  ],
+  "author": "Bynder",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/Bynder/dsf/issues"
+  },
+  "homepage": "https://github.com/Bynder/dsf"
+}
