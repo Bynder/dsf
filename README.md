@@ -7,4 +7,4 @@ Install with bower
 `bower install DecentStringFormatter`   
 
 or install with NPM  
-`npm install DecentStringFormatter`
+`npm install decentstringformatter`
