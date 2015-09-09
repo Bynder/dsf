@@ -4,7 +4,7 @@ Decent String Formatter for Javascript
 ## Installation
 
 Install with bower  
-`bower install decentfileformatter`   
+`bower install DecentStringFormatter`   
 
 or install with NPM  
-`npm install decentfileformatter`
+`npm install DecentStringFormatter`
