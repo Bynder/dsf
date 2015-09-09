@@ -11,7 +11,7 @@ or install with NPM
 
 ## Usage  
 
-`var translation = "Created on {}, changed on {} (by {}).";
-var formatted = translation.dsf("{test}",
-                                   "09-09-2015",
+`var translation = "Created on {}, changed on {} (by {}).";  
+var formatted = translation.dsf("{test}",  
+                                   "09-09-2015",  
                                    "User");`
