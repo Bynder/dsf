@@ -116,8 +116,8 @@
 
             var rebuild_string = [];
             var token_counter = 0;
-            for (var _tk in tokens) {
-                var cur_token = token_type(tokens[_tk]);
+            for (var i = 0; i < tokens.length; i++) {
+                var cur_token = token_type(tokens[i]);
                 if (cur_token.type === 'token-positional') {
                     var rpl_value = positional_arguments[cur_token.value];
                 }
@@ -128,7 +128,7 @@
                     var rpl_value = cur_token.value;
                 }
                 if (rpl_value === undefined) {
-                    throw new Error("Unmatched argument " + tokens[_tk]);
+                    throw new Error("Unmatched argument " + tokens[i]);
                 }
                 rebuild_string.push(rpl_value);
             }
