@@ -1,6 +1,6 @@
 {
-  "name": "DecentStringFormatter",
-  "version": "0.0.1",
+  "name": "decentstringformatter",
+  "version": "0.0.2",
   "description": "Decent String Formatter for Javascript",
   "main": "src/dsf.js",
   "scripts": {
